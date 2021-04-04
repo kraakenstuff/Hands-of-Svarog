@@ -7,4 +7,4 @@
  
 Note: I wanted panel for this module to include a mixture of Slavic mythology and heavy metal (yeah, why not). But after I made the panel, friends suggested that some symbols ("kolovrat" - a wheel looking one) look like nazi symbols, so I made the (official) panel that is clean and acceptable for all (panel1.png). However, I included the original design here as well (panel.png), without making panel files (in case you find it cool, non-offensive and you make panels for yourself).
 
-![plot](./Artwork/Hands of Svarog.jpg)
+![Finished module](Artwork/Hands of Svarog.jpg?raw=true "Finished module")
